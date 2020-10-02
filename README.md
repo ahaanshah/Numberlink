@@ -1,2 +1,3 @@
 # Numberlink
-MAPF using MCTS
+Implementation of the paper: Multi-Agent non-Overlapping Pathfinding with Monte-Carlo Tree Search
+(A work in progress)
